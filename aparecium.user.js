@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Aparecium
 // @namespace    https://github.com/xxxbrian/Aparecium
-// @version      0.2
+// @version      0.2.1
 // @description  The spell aparecium reveal hidden messages or other markings which are hidden or concealed.
 // @author       Bojin Li
 // @match        *://cgi.cse.unsw.edu.au/*
