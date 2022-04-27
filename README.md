@@ -1,4 +1,4 @@
-# APARECIUM
+# APARECIUM | 现形咒
 
 **ap·ar·e·ci·um**
 _/əˈper ē sē ēəm/_
@@ -14,7 +14,7 @@ The spell aparecium reveal hidden messages or other markings which are hidden or
 
 ## How to install
 
-Apareciym is built on the [Tampermonkey](https://www.tampermonkey.net/), which is an extremely powerful tool.
+Aparecium is built on the [Tampermonkey](https://www.tampermonkey.net/), which is an extremely powerful tool.
 
 ### 1. Install Tampermonkey on your browser
 
