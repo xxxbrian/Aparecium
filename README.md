@@ -1,5 +1,9 @@
 # APARECIUM | 现形咒
 
+[![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Support-orange.svg)](https://tampermonkey.net/)
+[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-up%20to%20date-success.svg)](https://greasyfork.org/scripts/444104)
+[![LICENSE](https://img.shields.io/github/license/xxxbrian/Apareciym.svg)](./LICENSE)
+
 **ap·ar·e·ci·um**
 _/əˈper ē sē ēəm/_
 _noun_
@@ -32,10 +36,10 @@ Not much to say about how to install Tampermonkey here, there are too many guide
 
 Once you have Tampermonkey installed, you can install Aparecium with one click via [Greasy Fork](https://greasyfork.org/scripts/444104).
 
-![](./docs/greasyfork.png)
+![greasyfork](./docs/greasyfork.png)
 Just click the **install** button.
 
-![](./docs/tampermonkey.png)
-Now in the Tampermonkey Management Panel you will see that Aparecium has been successfully installed.
+![tampermonkey](./docs/tampermonkey.png)
+Now in the Tampermonkey Dashboard you will see that Aparecium has been successfully installed.
 
 The Aparecium spell will be executed **automatically** when you open unsw cse cgi!
